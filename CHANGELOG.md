@@ -1,3 +1,9 @@
+## [HongyuanH @ Aug.23 2016]
+
+### Bug Fix
+
+- Downgrade Gemfile.lock to use github-pages (80) and jekyll-github-metadata (= 1.11.1). Avoid github-metadata API authentication error.
+
 ## [3.4.3](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.4.3)
 
 ### Enhancements
